@@ -11,20 +11,20 @@ KiranaGPT is a full-stack AI system that automates credit underwriting for India
 
 👉https://drive.google.com/file/d/1aMC83xPtS1iOpTaiu3c9yt6n_95nC4rH/view?usp=drivesdk
 
+### 🏠 Home Page
+![Home Page](./assets/HOMEPAGE.png)
+
 ---
 
 ## 📸 Screenshots
 
-### 🏠 Home Page
-![Home Page](./assets/HOMEPAG.png)
-
-### 📤 Upload Screen
+### 📤 ANALYSIS
 ![Upload Screen](./assets/DEMO2.png)
 
-### 📊 Analysis View
+### 📊 RESULT
 ![Analysis](./assets/DEMO3.png)
 
-### 💳 Final Result Dashboard
+### 💳 AI AGENTS
 ![Result](./assets/DEMO4.png)
 
 ---
