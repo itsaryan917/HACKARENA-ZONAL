@@ -1,4 +1,4 @@
-# KiranaGPT — Multi-Modal Agentic AI Credit Underwriting for India's Kirana Stores
+ # KiranaGPT — Multi-Modal Agentic AI Credit Underwriting for India's Kirana Stores
 
 > **"A loan officer uploads 5 photos. KiranaGPT approves the loan in 60 seconds — no field visit, no paperwork."**
 
