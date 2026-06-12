@@ -5,7 +5,29 @@
 KiranaGPT is a full-stack AI system that automates credit underwriting for India's 13 million kirana (small grocery) stores. It combines computer vision, geospatial intelligence, machine learning, and large language model agents to assess a store's creditworthiness from 5 photographs and a GPS location — producing a complete business advisory, loan recommendation, and downloadable PDF report in under 60 seconds.
 
 ---
+---
 
+## 🚀 Live Demo
+
+👉https://drive.google.com/file/d/1aMC83xPtS1iOpTaiu3c9yt6n_95nC4rH/view?usp=drivesdk
+
+---
+
+## 📸 Screenshots
+
+### 🏠 Home Page
+![Home Page](./assets/HOMEPAG.png)
+
+### 📤 Upload Screen
+![Upload Screen](./assets/DEMO2.png)
+
+### 📊 Analysis View
+![Analysis](./assets/DEMO3.png)
+
+### 💳 Final Result Dashboard
+![Result](./assets/DEMO4.png)
+
+---
 ## The Problem We're Solving
 
 India has **13 million kirana stores** employing over 40 million people. They represent a **₹40 lakh crore addressable credit market**. Yet fewer than **4% have ever received a formal loan**.
